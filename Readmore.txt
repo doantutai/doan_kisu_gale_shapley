@@ -1,0 +1,12 @@
+﻿Đây là đồ án kĩ sư 5 năm của Tác giả: Doan Tu Tai
+Facebook: http://fb.com/doantutai95
+TÌM HIỂU BÀI TOÁN HR (HOSPITALS/RESIDENTS) 
+ỨNG DỤNG PHÂN CÔNG GIẢNG VIÊN HƯỚNG DẪN SINH VIÊN THỰC TẬP 
+
+Đồ án Bao gồm:
+- Code Gale-Shapley với n và m bộ số khác nhau đọc từ tệp.
+- Code Gale-Shapley với n và m bộ số khác nhau đọc từ csdl.
+(Ở đây java+ csdl là pgAdminIII, bạn có thể restore là được).
+Toàn bộ thuật toán và cách làm đã nói rõ trong bản Word đồ án.
+Mọi thắc mắc xin liên hệ: 0962.747.935
+Bản quyền: Doan Tu Tai
